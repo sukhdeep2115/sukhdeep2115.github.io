@@ -1,13 +1,15 @@
 # Hello
 This is my first project.
 
-My name is **sukhdeep**. 
+My name is **sukhdeep singh**. 
 
 >This is a tutorial of Markdown.  
 
 - Double star is uesd for **bold** text.  
 - Single star is used for *italic* text.  
 - Three star is used for both ***bold and italic.***  
+- underscore is used for _italic_ text
+
 - Tilt(~) is used for ~~stroke.~~  
 ( > )This is used for block quote.  
 
