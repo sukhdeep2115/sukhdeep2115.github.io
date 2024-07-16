@@ -15,6 +15,7 @@ My name is **Sukhdeep singh**.
 - Tilt(~) is used for ~~stroke.~~  
 ( > )This is used for block quote.  
 
+* This is astricks.  
 
 >This is an example blockquote.  
 
