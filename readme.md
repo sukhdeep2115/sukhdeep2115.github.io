@@ -1,7 +1,5 @@
 # Hello
-This is my first project.  
-
-![sorry please check your internet connection.](/IMG_2024_07_13_104601.jpg)
+This is my first project.
 
 My name is **sukhdeep**. 
 
