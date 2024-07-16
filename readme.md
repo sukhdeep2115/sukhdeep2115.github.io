@@ -1,7 +1,7 @@
 # Hello
 This is my first project.
 
-![Error](https://drive.google.com/file/d/1K69ev3lP68NbEPRvWYonFyC8qy3p3rdg/view?usp=drivesdk)
+![Error](/https://drive.google.com/file/d/1K69ev3lP68NbEPRvWYonFyC8qy3p3rdg/view?usp=drivesdk)
 
 My name is **Sukhdeep singh**. 
 
