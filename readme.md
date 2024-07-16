@@ -18,13 +18,11 @@ My name is **sukhdeep**.
 - item3   
  - This code is used for highlight `Background.`  
  - For double line used three Apostrophe.  
-```
-#include<stdio.h>
+```#include<stdio.h>
 
 int main(){
 
 printf("hello world");
 
     return 0;
-}
-```
+}```
