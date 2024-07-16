@@ -1,7 +1,7 @@
 # Hello
 This is my first project.  
 
-![sorry please check your internet connection.](https://stock.adobe.com/ie/images/hello-speech-bubble-isolated-on-yellow-background/242762932)
+![sorry please check your internet connection.](IMG_2024_07_13_104601.jpg)
 
 My name is **sukhdeep**. 
 
