@@ -8,7 +8,8 @@ My name is **sukhdeep**.
 - Single star is used for *italic* text.  
 - Three star is used for both ***bold and italic.***  
 - Tilt(~) is used for ~~stroke.~~  
->This is a blockquote.  
+>This is a blockquote.
+
 1. item 1  
 2. item 2  
 3. item 3
@@ -17,7 +18,8 @@ My name is **sukhdeep**.
 - item2  
 - item3   
  - This code is used for highlight `Background.`  
- - For double line used three Apostrophe.  
+ - For double line used three Apostrophe.
+   
 ```#include<stdio.h>
 
 int main(){
