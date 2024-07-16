@@ -1,7 +1,7 @@
 # Hello
 This is my first project.  
 
-![sorry please check your internet connection.](IMG_2024_07_13_104601.jpg)
+![sorry please check your internet connection.](/IMG_2024_07_13_104601.jpg)
 
 My name is **sukhdeep**. 
 
