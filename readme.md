@@ -40,7 +40,7 @@ printf("hello world");
 
 [Click here](https://google.com) to open Google.  
 
-##My Academic records are:-  
+## My Academic records are:-  
 
 | SUBJECTS | SCORE |
 | -------- | ----- |
