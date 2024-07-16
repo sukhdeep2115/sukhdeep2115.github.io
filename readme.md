@@ -38,4 +38,13 @@ printf("hello world");
 }
 ```
 
-[Click here](https://google.com) to open Google.
+[Click here](https://google.com) to open Google.  
+
+##My Academic records are:-  
+
+| SUBJECTS | SCORE |
+| -------- | ----- |
+| Phy | 71 |
+| Math | 92 |
+| Chem | 96 |
+
