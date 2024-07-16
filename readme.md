@@ -32,4 +32,4 @@ printf("hello world");
 }
 ```
 
-[Click here] (https://google.com) to open.
+[Click here](https://google.com) to open.
