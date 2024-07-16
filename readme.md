@@ -1,8 +1,7 @@
 # Hello
 This is my first project.  
 
-![sorry please check your internet connection.](https://images.app.goo.gl/42eKnFtaBUWMwNrs9)  
-
+![sorry please check your internet connection.](https://images.app.goo.gl/nDcdDaG9euqkP3316)
 
 My name is **sukhdeep**. 
 
