@@ -21,7 +21,8 @@ My name is **sukhdeep**.
  - For double line used three Apostrophe.   
 
 
-```#include<stdio.h>
+```
+#include<stdio.h>
 
 int main(){
 
