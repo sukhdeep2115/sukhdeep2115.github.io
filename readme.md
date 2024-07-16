@@ -1,7 +1,8 @@
 # Hello
-This is my first project.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXy-G0kk-gaUqP_TPH4lUI3hdSqC32OrcEjN_YbEN-YlQbCYW8aYAYMJ7&s=10" alt="drawing" width="50%"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXy-G0kk-gaUqP_TPH4lUI3hdSqC32OrcEjN_YbEN-YlQbCYW8aYAYMJ7&s=10" alt="drawing" width="50%"/>  
+
+This is my first project.
 
 My name is **Sukhdeep singh**. 
 
