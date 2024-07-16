@@ -38,7 +38,7 @@ printf("hello world");
 }
 ```
 
-[ ![Sorry please check your internet.](https://www.google.co.in/) ] (https://google.com) to open Google.  
+[ ![Sorry please check your internet.](/content://media/external/downloads/1000002798) ](https://google.com) to open Google.  
 
 ## My Academic records are:-  
 
