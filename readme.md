@@ -40,7 +40,7 @@ printf("hello world");
 }
 ```
 
-[ ![Sorry please check your internet.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD60xfKFyt7A7aD8i4qGfqmCU94R5lxW0cMsoUxH8dAngdlwZzOuUfDpE&s=10) ](https://google.com) to open Google.  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXy-G0kk-gaUqP_TPH4lUI3hdSqC32OrcEjN_YbEN-YlQbCYW8aYAYMJ7&s=10" alt="drawing" width="10%"To Open google/> 
 
 ## My Academic records are:-  
 
