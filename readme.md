@@ -13,7 +13,7 @@ My name is **Sukhdeep singh**.
 - Three star is used for both ***bold and italic.***  
 - underscore is used for _italic_ text
 
-- Tilt(~) is used for ~~stroke.~~  
+- Tildes(~) is used for ~~stroke.~~  
 ( > )This is used for block quote.  
 
 * This is astricks.  
