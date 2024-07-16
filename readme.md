@@ -8,7 +8,10 @@ My name is **sukhdeep**.
 - Single star is used for *italic* text.  
 - Three star is used for both ***bold and italic.***  
 - Tilt(~) is used for ~~stroke.~~  
->This is a blockquote.  
+( > )This is used for block quote.  
+
+
+>This is an example blockquote.  
 
 1. item 1  
 2. item 2  
