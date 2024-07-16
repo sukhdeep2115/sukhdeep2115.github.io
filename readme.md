@@ -1,7 +1,7 @@
 # Hello
 This is my first project.
 
-My name is **sukhdeep singh**. 
+My name is **Sukhdeep singh**. 
 
 >This is a tutorial of Markdown.  
 
@@ -38,7 +38,7 @@ printf("hello world");
 }
 ```
 
-[Click here](https://google.com) to open Google.  
+[ ![Sorry pleasecheck your internet connection ](https://google.com/images/logo.gif "Logo Title text 1") ](https://google.com) to open Google.  
 
 ## My Academic records are:-  
 
