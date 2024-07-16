@@ -38,7 +38,7 @@ printf("hello world");
 }
 ```
 
-[ ![Sorry pleasecheck your internet connection ](https://google.com/images/logo.gif "Logo Title text 1") ](https://google.com) to open Google.  
+[Click here ](https://google.com) to open Google.  
 
 ## My Academic records are:-  
 
