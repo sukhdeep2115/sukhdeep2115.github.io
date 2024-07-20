@@ -4,9 +4,15 @@
 
 This is my first project.
 
-My name is **Sukhdeep singh**. 
+My name is **Sukhdeep singh**.  
 
->This is a tutorial of Markdown.  
+### This is my MS Excel Certificate.
+
+
+![Screenshot_20240720_224216_Drive](https://github.com/user-attachments/assets/23fb1d59-4c3f-4c2b-a0f1-325fc6f939bd)
+
+
+>Basics of Markdown.  
 
 - Double star is uesd for **bold** text.  
 - Single star is used for *italic* text.  
@@ -51,7 +57,5 @@ printf("hello world");
 | Math | 92 |
 | Chem | 96 |
 
-`>This is my MS Excel certificate.`
 
-![Screenshot_20240720_224216_Drive](https://github.com/user-attachments/assets/23fb1d59-4c3f-4c2b-a0f1-325fc6f939bd)
 
