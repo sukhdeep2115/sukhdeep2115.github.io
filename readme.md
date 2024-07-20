@@ -51,3 +51,4 @@ printf("hello world");
 | Math | 92 |
 | Chem | 96 |
 
+![sorry](Screenshot_20240720_224216_Drive.jpg)
