@@ -57,8 +57,4 @@ printf("hello world");
 | Chem | 96 |
 
 
-Anode (Li) | Electrolyte | Cathode (LiCoO₂)
-    (Charge)  |             | (Discharge)
-   Li⁺ → e⁻   |   Li⁺       |  Li⁺ → e⁻
-
 
